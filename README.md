@@ -38,3 +38,31 @@ by [@nft_newcommers](https://t.me/nft_newcomers "@nft_newcommers")
 Если вам отправили такую крипту, на ваш кошелёк внутри тг, то у вас будет надпись "Этот токен не проверен", так например вместо TON у весь будет какой-нибудь TOH, у которого может даже совпадать цена с нынешним курсом TON, но это всё так же будет пустышкой
 
 [![fo1](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%A4%D0%BB%D0%B5%D1%88%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0/one.png?raw=true "fo1")](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%A4%D0%BB%D0%B5%D1%88%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0/one.png?raw=true "fo1")
+
+> ### 5. Фейковые переводы (Бумажка в фантазии)
+
+Мошенники могут вам первым отправить деньги на карту, но в своём банковском приложении вы не увидите поступленных средств - потому что скамер вам показал поддельный скрин перевода, обязательно в таком случае попросите pdf чек и запись экрана, на котором человек вам покажет перевод
+
+Сравние предоставленные вам скришот и чек, с настоящим переводом и чеком любой из опираций в вашей истории банка, вы увидете много отличий, обычно скакмеры указывают в неправильном формате дату и время перевода, в чеке могут отсутсвовать несколько пунктов или быть названы по другому, печать банка может стоять неправильно
+
+[![fi1](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%A4%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/one.png?raw=true "fi1")](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%A4%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/one.png?raw=true "fi1")
+
+> ### 6. Иллюзия Безопасности (Поддельные документы)
+
+Мошенники вам могут указать гаранта с тегом юзернейма (например [@zaichos](https://t.me/zaichos "@zaichos")), вы так как знаете, что Zaichos проверенный гарант, можете согласиться на сделеку через него, но и тут вас могут обмануть ведь в юзернейм через форматирование текста можно внедрить ссылку на другого, подставного гаранта, который как раз таки и обманет вас
+
+Проверяйте реальный адрес:
+- На ПК: Наведите курсор мыши на ссылку или юзернейм – на экране появится реальный адрес, на который ведёт гиперссылка
+- На мобильных устройствах: Долгое нажатие на ссылку/юзернейм часто покажет всплывающее окно с реальным адресом или предложит скопировать его.
+
+Копируйте и ищите вручную: Если вам нужно связаться с человеком по юзернейму, скопируйте его (не кликая!) и вставьте в строку поиска мессенджера или найдите через официальные каналы
+
+Вот так это может выглядеть
+
+[![si1](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/one.png?raw=true "si1")](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/one.png?raw=true "si1")
+
+[![si2](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/two.png?raw=true "si2")](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8/two.png?raw=true "si2")
+
+### В заключение - всегда думайте своей головой, перепроверяйте всё, что вам пишут
+
+[![zaichos](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/zaichos_tell.jpg?raw=true "zaichos")](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/zaichos_tell.jpg?raw=true "zaichos")
