@@ -7,9 +7,8 @@ by [@nft_newcommers](https://t.me/nft_newcomers "@nft_newcommers")
 
 Как видим в этом примере, жертва отправила подарок скамеру напрямую, без гаранта, доверевшись ему, по итогу - после передачи NFT подарка, скамер снёс чат и отправил жертву в чс
 
-[![f1](https://raw.githubusercontent.com/Frozerm/nft-how-defeat-scammers/refs/heads/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5/%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5-1.jpg "f1")](https://raw.githubusercontent.com/Frozerm/nft-how-defeat-scammers/refs/heads/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5/%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5-1.jpg "f1")
+[![one](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5/one.png?raw=true "one")](https://github.com/Frozerm/nft-how-defeat-scammers/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5/one.png?raw=true "one")
 
-[![f2](https://raw.githubusercontent.com/Frozerm/nft-how-defeat-scammers/refs/heads/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5/%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5-2.jpg "f2")](https://raw.githubusercontent.com/Frozerm/nft-how-defeat-scammers/refs/heads/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20%D1%81%D0%BA%D0%B0%D0%BC%D0%B0/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5/%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5-2.jpg "f2")
 
 > #### 2. Поддельные гаранты (Скамеры в украденных пиджаках)
 
